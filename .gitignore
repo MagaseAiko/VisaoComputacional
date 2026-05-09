@@ -1,6 +1,1 @@
 dataset_banana/
-runs/
-*.pt
-*.avi
-**pycache**/
-.ipynb_checkpoints/
