@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pisang']
+
+roboflow:
+  workspace: faster-rcnn-tiage
+  project: banana-i2u5l
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/faster-rcnn-tiage/banana-i2u5l/dataset/1
